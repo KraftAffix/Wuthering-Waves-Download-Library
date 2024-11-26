@@ -1,7 +1,7 @@
 ## Wuthering Waves Download Library
 Wuthering Waves download links for archive purposes \
 put download link on a download manager (IDM) if it doesnt work
-# THESE ARE LINKS GRABBED FROM THE OFFICIAL LAUNCHER SO ITS SAFE TO DOWNLOAD
+# THESE ARE LINKS GRABBED FROM THE OFFICIAL LAUNCHER
 ___
 | Version | OS | Server | Link |
 |:-------:|:--:|:------:|:----:|
