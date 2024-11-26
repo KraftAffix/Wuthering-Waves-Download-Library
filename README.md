@@ -1,4 +1,4 @@
-## Wuthering-Waves-Download-Library
+## Wuthering Waves Download Library
 wuthering waves download links for archive purposes \
 put download link on a download manager (IDM) if it doesnt work
 
