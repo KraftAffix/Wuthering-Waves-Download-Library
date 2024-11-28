@@ -4,7 +4,7 @@ You can also download the game here if you are having issues in the launcher for
 \
 Torrent links for now, will add another option soon
 
-# BELOW IS THE DOMAIN THEY USED TO HOST THE FILES
+# FILES ARE GRABBED ON THE FOLLOWING DOMAINS
 `hw-pcdownload-qcloud.aki-game.net`‎ / `hw-pcdownload-akamai.aki-game.net` /
 `hw-pcdownload-aws.aki-game.net` / 
 `pcdownload-huoshan.aki-game.net`
