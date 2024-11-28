@@ -1,7 +1,7 @@
 # Wuthering Waves Download Library
-Wuthering Waves download links for archive purposes /
-You can also download the game here if you are having issues in the launchee for  some reason /
-/
+Wuthering Waves download links for archive purposes \
+You can also download the game here if you are having issues in the launchee for  some reason \
+\
 Torrent links for now, will add another option soon
 
 # LINKS BELOW ARE THE FILES THAT ARE PROVIDED FROM THE LAUNCHER 
