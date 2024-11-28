@@ -2,7 +2,7 @@
 Wuthering Waves download links for archive purposes \
 torrent links for now, will add another option soon
 
-# LINKS BELOW ARE PROVIDED FROM THE LAUNCHER 
+# LINKS BELOW ARE THE FILES THAT ARE PROVIDED FROM THE LAUNCHER 
 `hw-pcdownload-qcloud.aki-game`‎ / `hw-pcdownload-akamai.aki-game` /
 `hw-pcdownload-aws.aki-game` / 
 `pcdownload-huoshan.aki-game`
@@ -18,4 +18,4 @@ support server if for some reason you need help [kraftaffix/Wuthering-Waves-Down
 - The launcher has 4 CDN links to download each file and they give like 458+ links to download the game files seperately (no joke) unlike some _anime game_ that split the game into 4 zip files only requiring 4 links. /
 
 **Torrenting feels like illegal, are there any other options?**
-- 
+- I will be adding more download options soon when I have tbe time.
