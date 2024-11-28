@@ -8,4 +8,5 @@ ___
 |:-------:|:--:|:------:|:----:|
 | Release 1.4.1 | Windows | Global | Generating... |
 ___
-currently maintained by [kraftaffix](https://github.com/KraftAffix)
+currently maintained by [kraftaffix](https://github.com/KraftAffix) \
+support server if for some reason you need help [kraftaffix/Wuthering-Waves-Download-Library](https://discord.gg/f3fTWdDmh5)
