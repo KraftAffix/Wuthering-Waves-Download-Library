@@ -11,7 +11,7 @@ Torrent links for now, will add another option soon
 ___
 | Version | OS | Server | Link |
 |:-------:|:--:|:------:|:----:|
-| Release 1.4.1 | Windows | Global | [torrent](https://github.com/KraftAffix/Wuthering-Waves-Download-Library/raw/refs/heads/main/Wuthering%20Waves%20Game.torrent) |
+| Release 1.4.1 | Windows | Global | [torrent](https://raw.githubusercontent.com/KraftAffix/Wuthering-Waves-Download-Library/refs/heads/main/versions/release%201.4/1.4.1%20-%20Wuthering%20Waves%20Game.torrent) |
 ___
 maintained by [kraftaffix](https://github.com/KraftAffix) \
 support server if for some reason you need help [kraftaffix/Wuthering-Waves-Download-Library](https://discord.gg/f3fTWdDmh5)
