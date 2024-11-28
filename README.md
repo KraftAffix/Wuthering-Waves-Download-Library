@@ -13,7 +13,7 @@ ___
 |:-------:|:--:|:------:|:----:|
 | Release 1.4.1 | Windows | Global | [torrent](https://github.com/KraftAffix/Wuthering-Waves-Download-Library/raw/refs/heads/main/Wuthering%20Waves%20Game.torrent) |
 ___
-currently maintained by [kraftaffix](https://github.com/KraftAffix) \
+maintained by [kraftaffix](https://github.com/KraftAffix) \
 support server if for some reason you need help [kraftaffix/Wuthering-Waves-Download-Library](https://discord.gg/f3fTWdDmh5)
 
 **Why is it a torrent if its from the official launcher?**
