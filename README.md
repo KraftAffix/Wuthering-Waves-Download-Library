@@ -21,4 +21,4 @@ support server if for some reason you need help [kraftaffix/Wuthering-Waves-Down
 - The torrent file also serves as a some kind of bulk download so you only have to download one file
 
 **Torrenting feels like illegal, are there any other options?**
-- I will be adding more download options soon when I have the time
+- I will be adding more download options soon if I can and have the time
