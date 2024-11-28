@@ -4,10 +4,10 @@ You can also download the game here if you are having issues in the launcher for
 \
 Torrent links for now, will add another option soon
 
-# LINKS BELOW ARE THE FILES THAT ARE PROVIDED FROM THE LAUNCHER 
-`hw-pcdownload-qcloud.aki-game`‎ / `hw-pcdownload-akamai.aki-game` /
-`hw-pcdownload-aws.aki-game` / 
-`pcdownload-huoshan.aki-game`
+# BELOW IS THE DOMAIN THEY USED TO HOST THE FILES
+`hw-pcdownload-qcloud.aki-game.net`‎ / `hw-pcdownload-akamai.aki-game.net` /
+`hw-pcdownload-aws.aki-game.net` / 
+`pcdownload-huoshan.aki-game.net`
 ___
 | Version | OS | Server | Link |
 |:-------:|:--:|:------:|:----:|
