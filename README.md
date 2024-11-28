@@ -3,7 +3,8 @@ Wuthering Waves download links for archive purposes \
 torrent links for now, will add another option soon
 # FILES ARE PROVIDED FROM THE LAUNCHER
 `hw-pcdownload-qcloud.aki-game`‎ / `hw-pcdownload-akamai.aki-game` /
-`hw-pcdownload-aws.aki-game`
+`hw-pcdownload-aws.aki-game` / 
+`pcdownload-huoshan.aki-game`
 ___
 | Version | OS | Server | Link |
 |:-------:|:--:|:------:|:----:|
