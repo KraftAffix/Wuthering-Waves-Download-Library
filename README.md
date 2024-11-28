@@ -14,5 +14,5 @@ ___
 currently maintained by [kraftaffix](https://github.com/KraftAffix) \
 support server if for some reason you need help [kraftaffix/Wuthering-Waves-Download-Library](https://discord.gg/f3fTWdDmh5)
 
-Why is it a torrent if its from the official launcher?
+*Why is it a torrent if its from the official launcher?*
 - The launcher has 4 CDN links to download each file and they give like 458+ links to download the game unlike some _anime game_ that split the game into 4 zip files only requiring 4 links.
