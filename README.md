@@ -18,3 +18,7 @@ support server if for some reason you need help [kraftaffix/Wuthering-Waves-Down
 **Why is it a torrent if its from the official launcher?**
 - The launcher has 4 CDN links to download each file and they give like 458+ links to download the game files seperately (no joke) unlike some _anime game_ that split the game into 4 zip files only requiring 4 links
 - The torrent file also serves as a some kind of bulk download so you only have to download one file
+
+**What do I do with the .torrent file?**
+- Drag it into a torrent program and start downloading the game client
+- I will not provide torrent programs as that could get me in a trouble, find your own
