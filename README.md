@@ -1,11 +1,11 @@
 # Wuthering Waves Download Library
 Wuthering Waves download links for archive purposes \
-You can also download the game here if you are having issues in the launcher for  some reason \
-\
+You can also download the game here if you are having issues in the launcher for  some reason
 
 # FILES ARE GRABBED ON THE FOLLOWING DOMAINS
-`hw-pcdownload-qcloud.aki-game.net`‎ / `hw-pcdownload-akamai.aki-game.net` /
-`hw-pcdownload-aws.aki-game.net` / 
+`hw-pcdownload-qcloud.aki-game.net`‎ \
+`hw-pcdownload-akamai.aki-game.net` \
+`hw-pcdownload-aws.aki-game.net` \
 `pcdownload-huoshan.aki-game.net`
 ___
 | Version | OS | Server | Link |
