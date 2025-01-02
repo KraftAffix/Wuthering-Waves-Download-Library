@@ -8,13 +8,19 @@ You can also download the game here if you are having issues in the launcher for
 `hw-pcdownload-aws.aki-game.net` \
 `pcdownload-huoshan.aki-game.net`
 ___
+**Latest Version**
 | Version | OS | Server | Link |
 |:-------:|:--:|:------:|:----:|
-| Release 1.4.1 | Windows | Global | [.torrent](https://raw.githubusercontent.com/KraftAffix/Wuthering-Waves-Download-Library/refs/heads/main/versions/release%201.4/1.4.1%20-%20Wuthering%20Waves%20Game.torrent) |
+| Release 2.0 | Windows | Global | [.torrent](https://raw.githubusercontent.com/KraftAffix/Wuthering-Waves-Download-Library/refs/heads/main/versions/release%202.0/2.0%20-%20Wuthering%20Waves%20Game.torrent) |
+
+**Older Versions**
+| Version | OS | Server | Link |
+|:-------:|:--:|:------:|:----:|
 | Release 1.4.2 | Windows | Global | [.torrent](https://raw.githubusercontent.com/KraftAffix/Wuthering-Waves-Download-Library/refs/heads/main/versions/release%201.4/1.4.2%20-%20Wuthering%20Waves%20Game.torrent) |
+| Release 1.4.1 | Windows | Global | [.torrent](https://raw.githubusercontent.com/KraftAffix/Wuthering-Waves-Download-Library/refs/heads/main/versions/release%201.4/1.4.1%20-%20Wuthering%20Waves%20Game.torrent) |
 ___
 maintained by [kraftaffix](https://github.com/KraftAffix) \
-support server if for some reason you need help [kraftaffix/Wuthering-Waves-Download-Library](https://discord.gg/f3fTWdDmh5)
+contact me through kraftaffix@gmail.com
 
 **Why is it a torrent if its from the official launcher?**
 - The launcher has 4 CDN links to download each file and they give like 458+ links to download the game files seperately (no joke) unlike some _anime game_ that split the game into 4 zip files only requiring 4 links
