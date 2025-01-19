@@ -11,11 +11,13 @@ ___
 **Latest Version**
 | Version | OS | Server | Link |
 |:-------:|:--:|:------:|:----:|
-| Release 2.0 | Windows | Global | [.torrent](https://raw.githubusercontent.com/KraftAffix/Wuthering-Waves-Download-Library/refs/heads/main/versions/release%202.0/2.0%20-%20Wuthering%20Waves%20Game.torrent) |
+| Release 2.0.2 | Windows | Global | Adding... Please wait |
 
 **Older Versions**
 | Version | OS | Server | Link |
 |:-------:|:--:|:------:|:----:|
+| Release 2.0.1 | Windows | Global | i forgor |
+| Release 2.0 | Windows | Global | [.torrent](https://raw.githubusercontent.com/KraftAffix/Wuthering-Waves-Download-Library/refs/heads/main/versions/release%202.0/2.0%20-%20Wuthering%20Waves%20Game.torrent) |
 | Release 1.4.2 | Windows | Global | [.torrent](https://raw.githubusercontent.com/KraftAffix/Wuthering-Waves-Download-Library/refs/heads/main/versions/release%201.4/1.4.2%20-%20Wuthering%20Waves%20Game.torrent) |
 | Release 1.4.1 | Windows | Global | [.torrent](https://raw.githubusercontent.com/KraftAffix/Wuthering-Waves-Download-Library/refs/heads/main/versions/release%201.4/1.4.1%20-%20Wuthering%20Waves%20Game.torrent) |
 ___
