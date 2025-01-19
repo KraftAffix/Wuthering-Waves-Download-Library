@@ -11,7 +11,7 @@ ___
 **Latest Version**
 | Version | OS | Server | Link |
 |:-------:|:--:|:------:|:----:|
-| Release 2.0.2 | Windows | Global | Adding... Please wait |
+| Release 2.0.2 | Windows | Global | [.torrent](https://raw.githubusercontent.com/KraftAffix/Wuthering-Waves-Download-Library/refs/heads/main/versions/release%202.0/2.0.2%20-%20Wuthering%20Waves%20Game.torrent) |
 
 **Older Versions**
 | Version | OS | Server | Link |
