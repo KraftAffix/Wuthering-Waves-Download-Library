@@ -8,7 +8,7 @@ You can also download the game here if you are having issues in the launcher for
 `hw-pcdownload-aws.aki-game.net` \
 `pcdownload-huoshan.aki-game.net`
 ___
-it has come to my attention that my dumbass just realized it won't download the game if I (host) got a bug fix update for the game
+it has come to my attention that my dumbass realized it won't download the game for other people if I (host) got a bug fix update for the game
 ___
 maintained by [kraftaffix](https://github.com/KraftAffix) \
 contact me through kraftaffix@gmail.com
